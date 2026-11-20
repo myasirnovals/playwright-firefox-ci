@@ -1,0 +1,22 @@
+{
+  "name": "my-playwright-project",
+  "version": "1.0.0",
+  "description": "Playwright Automation Testing with Firefox and GitHub Actions CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [
+    "playwright",
+    "firefox",
+    "testing",
+    "automation",
+    "ci-cd"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.39.0",
+    "playwright": "^1.39.0"
+  }
+}
